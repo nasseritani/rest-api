@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-restapi",
-      "url": "http://localhost/SAC/sacrestapi/restapi.js",
+      "url": " https://nasseritani.github.io/rest-api/restapi.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-restapi-aps",
-      "url": "http://localhost/SAC/sacrestapi/restapi_aps.js",
+      "url": " https://nasseritani.github.io/rest-api/restapi_aps.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
@@ -34,7 +34,7 @@
     "restapiurl": {
       "type": "string",
       "description": "The REST API URL",
-      "default": "http://localhost:3000/score"
+      "default": " https://nasseritani.github.io/rest-api/score"
     },
     "name": {
       "type": "string",
